@@ -3,7 +3,6 @@
 - 🌱 I’m a student at Medieinstitutet and I'm studying Front End Development.
 - 🙏 Feedback are always welcome.
 - 📫 You can reach me [@R4YL_x](https://twitter.com/R4YL_x) on Twitter.
-- 🕹 Avid gamer och prefer FPS
 - 🥊 Practitioner of the art of 8 limbs 
 
 <!--
