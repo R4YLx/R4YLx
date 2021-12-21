@@ -2,7 +2,7 @@
 
 - 🌱 I’m a student at Medieinstitutet and I'm studying Front End Development.
 - 🙏 Feedback are always welcome.
-- 🦸‍♂️ Marvel nerd
+- ⚡ Fun fact: Red pandas are not related to regular pandas. 🐼
 
 <!--
 **R4YLx/R4YLx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
