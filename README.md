@@ -2,7 +2,7 @@
 
 ## 🤓 About me:
 - 🌱 I’m a student at Medieinstitutet and I'm studying Front End Development.
-- 🙏 Feedback are always welcome.
+- 🙏 Feedback is always welcome.
 - 🎶 Music enthusiast & producer
 - 🕹 Avid gamer
 - ⚡ Fun fact: Red pandas are not related to regular pandas. 🐼
