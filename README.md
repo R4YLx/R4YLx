@@ -7,7 +7,7 @@
 - 🥊 Nak Muay
 - ⚡ Fun fact: Red pandas are not related to regular pandas. 🐼
 
-## Learing:
+## 📖Learing:
 - TypeScript
 - Firebase Firestore
 - Firebase Storage
