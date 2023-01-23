@@ -7,8 +7,11 @@
 - 🥊 Nak Muay
 - ⚡ Fun fact: Red pandas are not related to regular pandas. 🐼
 
-## 📖Learing:
+## 📖Learning:
 - Everything about React, Next.js & TypeScript
+- Vue
+- SolidJS
+- Svelte
 
 <!--
 **R4YLx/R4YLx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
