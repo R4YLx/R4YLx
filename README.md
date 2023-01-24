@@ -1,7 +1,7 @@
 <img src="https://github.com/R4YLx/R4YLx/blob/main/raymond-lam-hello.gif"/>
 
 ## 🤓 About me:
-- 🌱 Front End Developer.
+- 🌱 Front End Developer
 - 🎶 Music enthusiast & former DJ/producer
 - 🕹 Avid gamer
 - 🥊 Nak Muay
