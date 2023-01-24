@@ -1,7 +1,7 @@
 <img src="https://github.com/R4YLx/R4YLx/blob/main/raymond-lam-hello.gif"/>
 
 ## 🤓 About me:
-- 🌱 I’m a student at Medieinstitutet and I'm studying Front End Development.
+- 🌱 Front End Developer.
 - 🎶 Music enthusiast & former DJ/producer
 - 🕹 Avid gamer
 - 🥊 Nak Muay
